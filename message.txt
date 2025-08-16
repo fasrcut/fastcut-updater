@@ -1,6 +1,7 @@
 ID:
 ---
-Welcom To fastCut Tool!
+Welcome To FastCut Tool!
+
 
 
 
